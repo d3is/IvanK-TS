@@ -1,6 +1,7 @@
 IvanK-TS
 ========
 IvanK TypeScript Definitions
+
 Author: Matt Greene
 
 IvanK : http://lib.ivank.net/
